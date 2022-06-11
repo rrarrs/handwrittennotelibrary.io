@@ -13,4 +13,6 @@ Primary Azure Technology:- Static Web Apps, Web Apps, cloud service
 
 Other Azure Technologies:- N/A
 
-demo URL:- https://orange-beach-05347dc00.1.azurestaticapps.net/
+azure demo URL:- https://orange-beach-05347dc00.1.azurestaticapps.net/
+
+github demo url:- https://github.com/rrarrs/handwrittennoteslibrary.io
